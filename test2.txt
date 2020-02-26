@@ -1,11 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 75F5-4F0A
-
- Directory of C:\Users\sreen\Desktop\myfolder
-
-02/25/2020  07:12 PM    <DIR>          .
-02/25/2020  07:12 PM    <DIR>          ..
-02/25/2020  07:12 PM                12 test.txt
-02/25/2020  07:12 PM                 0 test2.txt
-               2 File(s)             12 bytes
-               2 Dir(s)  947,840,765,952 bytes free
+This is the second text file ,it is modified
